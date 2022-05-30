@@ -1,0 +1,326 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:18:18:00 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"curl/7.79.1\"\n"}
+{"date":"Mon May 30 2022 20:22:35 GMT+0200 (Central European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: bodyParser is not defined\nReferenceError: bodyParser is not defined\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:8:9)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","os":{"loadavg":[2.14013671875,2.060546875,1.970703125],"uptime":185050},"process":{"argv":["/Users/trent/.nvm/versions/node/v16.13.1/bin/node","/Users/trent/Development/xpenses/app.js","app.js"],"cwd":"/Users/trent/Development/xpenses","execPath":"/Users/trent/.nvm/versions/node/v16.13.1/bin/node","gid":20,"memoryUsage":{"arrayBuffers":87982,"external":1748747,"heapTotal":17424384,"heapUsed":9444216,"rss":41070592},"pid":50753,"uid":502,"version":"v16.13.1"},"stack":"ReferenceError: bodyParser is not defined\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:8:9)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","trace":[{"column":9,"file":"/Users/trent/Development/xpenses/app.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1153,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+{"date":"Mon May 30 2022 20:22:46 GMT+0200 (Central European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: bodyParser is not defined\nReferenceError: bodyParser is not defined\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:8:9)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","os":{"loadavg":[1.89111328125,2.0087890625,1.953125],"uptime":185061},"process":{"argv":["/Users/trent/.nvm/versions/node/v16.13.1/bin/node","/Users/trent/Development/xpenses/app.js","app.js"],"cwd":"/Users/trent/Development/xpenses","execPath":"/Users/trent/.nvm/versions/node/v16.13.1/bin/node","gid":20,"memoryUsage":{"arrayBuffers":103170,"external":1748747,"heapTotal":17686528,"heapUsed":9514248,"rss":40546304},"pid":50767,"uid":502,"version":"v16.13.1"},"stack":"ReferenceError: bodyParser is not defined\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:8:9)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","trace":[{"column":9,"file":"/Users/trent/Development/xpenses/app.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1153,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:18:24:17 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"curl/7.79.1\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:18:24:39 +0000] \"POST /expense HTTP/1.1\" - - \"-\" \"curl/7.79.1\"\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:18:24:59 +0000] \"POST /expense HTTP/1.1\" 200 31 \"-\" \"curl/7.79.1\"\n"}
+{"level":"info","message":"hello"}
+{"date":"Mon May 30 2022 21:03:04 GMT+0200 (Central European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Cannot create property 'Symbol(level)' on string 'Xpenses 0.0.1'\nTypeError: Cannot create property 'Symbol(level)' on string 'Xpenses 0.0.1'\n    at DerivedLogger.log (/Users/trent/Development/xpenses/node_modules/winston/lib/winston/logger.js:214:20)\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:14:8)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","os":{"loadavg":[2.12353515625,2.1259765625,2.15087890625],"uptime":187479},"process":{"argv":["/Users/trent/.nvm/versions/node/v16.13.1/bin/node","/Users/trent/Development/xpenses/app.js","app.js"],"cwd":"/Users/trent/Development/xpenses","execPath":"/Users/trent/.nvm/versions/node/v16.13.1/bin/node","gid":20,"memoryUsage":{"arrayBuffers":18517990,"external":21642582,"heapTotal":22716416,"heapUsed":17465648,"rss":54566912},"pid":51504,"uid":502,"version":"v16.13.1"},"stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Xpenses 0.0.1'\n    at DerivedLogger.log (/Users/trent/Development/xpenses/node_modules/winston/lib/winston/logger.js:214:20)\n    at Object.<anonymous> (/Users/trent/Development/xpenses/app.js:14:8)\n    at Module._compile (node:internal/modules/cjs/loader:1101:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","trace":[{"column":20,"file":"/Users/trent/Development/xpenses/node_modules/winston/lib/winston/logger.js","function":"DerivedLogger.log","line":214,"method":"log","native":false},{"column":8,"file":"/Users/trent/Development/xpenses/app.js","function":null,"line":14,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1153,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+{"level":"info","message":"Xpenses 0.0.1"}
+{"level":"info","message":"hello"}
+{"level":"info","message":"Xpenses 0.0.1"}
+{"level":"info","message":"hello"}
+info: Xpenses 0.0.1
+info: hello
+{"level":"info","message":"Xpenses 0.0.1"}
+{"level":"info","message":"hello"}
+{
+  message: 'Xpenses 0.0.1',
+  level: 'info',
+  timestamp: '2022-05-30 21:04:34'
+}
+{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:04:34' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{
+  message: 'Xpenses 0.0.1',
+  level: 'info',
+  timestamp: '2022-05-30 21:06:37'
+}
+{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:06:37' }
+[32m{[39m
+[32m  message: 'Xpenses 0.0.1',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:06:43'[39m
+[32m}[39m
+[32m{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:06:43' }[39m
+[32m{[39m
+[32m  message: 'Xpenses 0.0.1',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:07:10'[39m
+[32m}[39m
+[32m{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:07:10' }[39m
+[32m{[39m
+[32m  message: '::ffff:127.0.0.1 - - [30/May/2022:19:07:27 +0000] "POST /expense HTTP/1.1" 200 31 "-" "curl/7.79.1"\n',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:07:27'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'Xpenses 0.0.1',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:07:44'[39m
+[32m}[39m
+[32m{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:07:44' }[39m
+[32m{[39m
+[32m  message: '::ffff:127.0.0.1 - - [30/May/2022:19:07:46 +0000] "POST /expense HTTP/1.1" 500 1470 "-" "curl/7.79.1"\n',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:07:46'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'Xpenses 0.0.1',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:08:23'[39m
+[32m}[39m
+[32m{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:08:23' }[39m
+[32m{[39m
+[32m  message: 'Xpenses 0.0.1',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:08:35'[39m
+[32m}[39m
+[32m{[39m
+[32m  message: 'Xpenses started. Listening on 3000',[39m
+[32m  level: 'info',[39m
+[32m  timestamp: '2022-05-30 21:08:35'[39m
+[32m}[39m
+[31m{[39m
+[31m  message: 'Error dude',[39m
+[31m  level: 'error',[39m
+[31m  timestamp: '2022-05-30 21:08:35'[39m
+[31m}[39m
+[32m{ message: 'hello', level: 'info', timestamp: '2022-05-30 21:08:35' }[39m
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:08:59"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:08:59"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:08:59"}[39m
+[32m{"level":"info","message":"hello","timestamp":"2022-05-30 21:08:59"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:12:41"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:12:41"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:12:41"}[39m
+[32m{"level":"info","message":"hello","timestamp":"2022-05-30 21:12:41"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:12:48"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:12:48"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:12:48"}[39m
+[32m{"level":"info","message":"hello","timestamp":"2022-05-30 21:12:48"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:13:20"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:13:20"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:13:20"}[39m
+[32m{"level":"info","message":"hello","timestamp":"2022-05-30 21:13:20"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:14:26"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:14:26"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:14:26"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:14:36 +0000] \"POST /expense HTTP/1.1\" 500 1470 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:14:36"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:14:41 +0000] \"POST /expense HTTP/1.1\" 500 1470 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:14:41"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:14:55"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:14:55"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:14:55"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:15:01"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:15:01 +0000] \"POST /expense HTTP/1.1\" 200 31 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:15:01"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:17:14"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:17:14"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:17:14"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:17:22"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:17:22"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:17:22"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:17:22"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:18:00"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:18:00"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:18:00"}[39m
+[32m{"level":"info","message":"","timestamp":"2022-05-30 21:18:00"}[39m
+[32m{"level":"info","message":"Xpenses 0.0.1","timestamp":"2022-05-30 21:18:17"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:18:17"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:18:17"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:18:17"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:18:39"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:18:39"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:18:39"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:18:39"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:19:06"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:19:06"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:19:06"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:19:06"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:19:41"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:19:41"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:19:41"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:19:41"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:19:47"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:19:47"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:19:47"}[39m
+[32m{"level":"info","message":"Connected to database","timestamp":"2022-05-30 21:19:47"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:20:41"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:20:41"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:20:41"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.s","timestamp":"2022-05-30 21:20:41"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:20:50"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:20:50"}[39m
+[31m{"level":"error","message":"Error dude","timestamp":"2022-05-30 21:20:50"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:20:50"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:20:57"}[39m
+[32m{"level":"info","message":"Xpenses started. Listening on 3000","timestamp":"2022-05-30 21:20:57"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:20:57"}[39m
+[32m{"level":"info","message":"Started Xpenses 0.0.1","timestamp":"2022-05-30 21:21:09"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:21:09"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:21:09"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:21:21"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:21:21"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:22:01"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:22:01"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:22:04"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:22:04 +0000] \"POST /expense HTTP/1.1\" 200 31 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:22:04"}[39m
+[31m{"date":"Mon May 30 2022 21:22:04 GMT+0200 (Central European Summer Time)","error":{"code":"ERR_HTTP_HEADERS_SENT"},"exception":true,"level":"error","message":"uncaughtException: Cannot set headers after they are sent to the client\nError [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:371:5)\n    at ServerResponse.setHeader (node:_http_outgoing:576:11)\n    at ServerResponse.header (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:278:15)\n    at /Users/trent/Development/xpenses/app.js:22:21\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/utils.js:423:9\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:249:32\n    at next (/Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:490:16)\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:504:20","os":{"loadavg":[2.6015625,2.45361328125,2.3076171875],"uptime":188619},"process":{"argv":["/Users/trent/.nvm/versions/node/v16.13.1/bin/node","/Users/trent/Development/xpenses/app.js","app.js"],"cwd":"/Users/trent/Development/xpenses","execPath":"/Users/trent/.nvm/versions/node/v16.13.1/bin/node","gid":20,"memoryUsage":{"arrayBuffers":18376150,"external":21773048,"heapTotal":33988608,"heapUsed":16704400,"rss":59375616},"pid":51749,"uid":502,"version":"v16.13.1"},"stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:371:5)\n    at ServerResponse.setHeader (node:_http_outgoing:576:11)\n    at ServerResponse.header (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:278:15)\n    at /Users/trent/Development/xpenses/app.js:22:21\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/utils.js:423:9\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:249:32\n    at next (/Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:490:16)\n    at /Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js:504:20","timestamp":"2022-05-30 21:22:04","trace":[{"column":5,"file":"node:internal/errors","function":"new NodeError","line":371,"method":null,"native":false},{"column":11,"file":"node:_http_outgoing","function":"ServerResponse.setHeader","line":576,"method":"setHeader","native":false},{"column":10,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.header","line":794,"method":"header","native":false},{"column":12,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.send","line":174,"method":"send","native":false},{"column":15,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.json","line":278,"method":"json","native":false},{"column":21,"file":"/Users/trent/Development/xpenses/app.js","function":null,"line":22,"method":null,"native":false},{"column":9,"file":"/Users/trent/Development/xpenses/node_modules/mongodb/lib/utils.js","function":null,"line":423,"method":null,"native":false},{"column":32,"file":"/Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js","function":null,"line":249,"method":null,"native":false},{"column":16,"file":"/Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js","function":"next","line":490,"method":null,"native":false},{"column":20,"file":"/Users/trent/Development/xpenses/node_modules/mongodb/lib/cursor/abstract_cursor.js","function":null,"line":504,"method":null,"native":false}]}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:22:07"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:22:07"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:22:10"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:22:10 +0000] \"POST /expense HTTP/1.1\" 200 2 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:22:10"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:22:29"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:22:29"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:24:20"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:24:20"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:24:41"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:24:41"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:25:25"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:25:25"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:25:27"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:25:27 +0000] \"POST /expense HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:25:27"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:26:31"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:26:31 +0000] \"POST /expense HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:26:31"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:27:35"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:27:35"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:27:38"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:27:38 +0000] \"POST /expense HTTP/1.1\" 500 1223 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:27:38"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:28:30"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:28:30"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:28:33"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:28:33 +0000] \"POST /expense HTTP/1.1\" 500 1371 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:28:33"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:28:48"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:28:48"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:29:03"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:29:03"}[39m
+[32m{"level":"info","message":"{\"{\\\"hello\\\":\\\"whats up\\\"}\":\"\"}","timestamp":"2022-05-30 21:29:07"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:29:07 +0000] \"POST /expense HTTP/1.1\" 500 1371 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:29:07"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:29:19"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:29:19"}[39m
+[32m{"level":"info","message":{"{\"hello\":\"whats up\"}":""},"timestamp":"2022-05-30 21:29:25"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:29:25 +0000] \"POST /expense HTTP/1.1\" 500 1371 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:29:25"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:29:52"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:29:52"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:29:55 +0000] \"POST /expense HTTP/1.1\" 500 1223 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:29:55"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:30:22 +0000] \"POST /expense HTTP/1.1\" 500 1223 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:30:22"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:30:57 +0000] \"POST /expense HTTP/1.1\" 500 1223 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:30:57"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:31:21"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:31:21"}[39m
+[32m{"level":"info","message":{"{\\\"hello\\\": \\\"whats up\\\"}":""},"timestamp":"2022-05-30 21:31:22"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:31:22 +0000] \"POST /expense HTTP/1.1\" 500 1380 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:31:22"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:31:42"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:31:42"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:31:46"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:31:46"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:31:54"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:31:55"}[39m
+[32m{"level":"info","message":{"{\\\"hello\\\": \\\"whats up\\\"}":""},"timestamp":"2022-05-30 21:31:57"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:31:57 +0000] \"POST /expense HTTP/1.1\" 500 1290 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:31:57"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:32:04"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:32:04"}[39m
+[32m{"level":"info","message":{"{\\\"hello\\\": \\\"whats up\\\"}":""},"timestamp":"2022-05-30 21:32:06"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:32:06 +0000] \"POST /expense HTTP/1.1\" 500 1302 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:32:06"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:32:27"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:32:27"}[39m
+[32m{"level":"info","timestamp":"2022-05-30 21:32:31"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:32:31 +0000] \"POST /expense HTTP/1.1\" 500 1302 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:32:31"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:33:03"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:33:03"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:33:04 +0000] \"POST /expense HTTP/1.1\" 500 1289 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:33:04"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:33:56"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:33:57"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:33:57"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:33:57"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:34:01 +0000] \"POST /expense HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:34:01"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:53:20"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:53:20"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:55:26"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:55:26"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:55:53 +0000] \"GET /expenses HTTP/1.1\" - - \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:55:53"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:56:04"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:56:04"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:56:06 +0000] \"GET /expenses HTTP/1.1\" - - \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:56:06"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:57:32 +0000] \"GET /expenses HTTP/1.1\" - - \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:57:32"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:57:59"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:57:59"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 21:58:46"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 21:58:46"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:58:49 +0000] \"GET /expenses HTTP/1.1\" 200 2 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:58:49"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:58:57 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:58:57"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:19:59:00 +0000] \"GET /expenses HTTP/1.1\" 200 75 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 21:59:00"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:00:02"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:00:02"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:00:05 +0000] \"GET /expenses HTTP/1.1\" 200 75 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:00:05"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:00:46"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:00:46"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:00:49 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:00:49"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:00:52 +0000] \"GET /expenses HTTP/1.1\" 200 158 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:00:52"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:02:08"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:02:08"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:02:22 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:02:22"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:02:27 +0000] \"GET /expenses HTTP/1.1\" 200 226 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:02:27"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:03:00"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:03:01"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:03:05"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:03:05"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:03:09 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:03:09"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:03:12 +0000] \"GET /expenses HTTP/1.1\" 200 284 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:03:12"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:03:40"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:03:40"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:03:48 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:03:48"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:03:51 +0000] \"GET /expenses HTTP/1.1\" 200 352 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:03:51"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:04:14"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:04:14"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:04:19 +0000] \"POST /expenses HTTP/1.1\" 500 1223 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:04:19"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:06:31"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:06:31"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:07:12"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:07:12"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:07:17 +0000] \"POST /expenses HTTP/1.1\" 500 1342 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:07:17"}[39m
+[31m{"date":"Mon May 30 2022 22:07:17 GMT+0200 (Central European Summer Time)","error":{"code":"ERR_HTTP_HEADERS_SENT"},"exception":true,"level":"error","message":"uncaughtException: Cannot set headers after they are sent to the client\nError [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:371:5)\n    at ServerResponse.setHeader (node:_http_outgoing:576:11)\n    at ServerResponse.header (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:278:15)\n    at /Users/trent/Development/xpenses/app.js:17:29\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","os":{"loadavg":[2.16259765625,2.43310546875,2.36328125],"uptime":191332},"process":{"argv":["/Users/trent/.nvm/versions/node/v16.13.1/bin/node","/Users/trent/Development/xpenses/app.js","app.js"],"cwd":"/Users/trent/Development/xpenses","execPath":"/Users/trent/.nvm/versions/node/v16.13.1/bin/node","gid":20,"memoryUsage":{"arrayBuffers":18376482,"external":21773047,"heapTotal":34250752,"heapUsed":16824616,"rss":58576896},"pid":52666,"uid":502,"version":"v16.13.1"},"stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:371:5)\n    at ServerResponse.setHeader (node:_http_outgoing:576:11)\n    at ServerResponse.header (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/Users/trent/Development/xpenses/node_modules/express/lib/response.js:278:15)\n    at /Users/trent/Development/xpenses/app.js:17:29\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-05-30 22:07:17","trace":[{"column":5,"file":"node:internal/errors","function":"new NodeError","line":371,"method":null,"native":false},{"column":11,"file":"node:_http_outgoing","function":"ServerResponse.setHeader","line":576,"method":"setHeader","native":false},{"column":10,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.header","line":794,"method":"header","native":false},{"column":12,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.send","line":174,"method":"send","native":false},{"column":15,"file":"/Users/trent/Development/xpenses/node_modules/express/lib/response.js","function":"ServerResponse.json","line":278,"method":"json","native":false},{"column":29,"file":"/Users/trent/Development/xpenses/app.js","function":null,"line":17,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":96,"method":null,"native":false}]}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:07:36"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:07:36"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:07:39 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:07:39"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:07:42 +0000] \"GET /expenses HTTP/1.1\" 200 488 \"-\" \"curl/7.79.1\"\n","timestamp":"2022-05-30 22:07:42"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:09:34 +0000] \"GET /expenses HTTP/1.1\" 200 488 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:09:34"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:10:30 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:10:30"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:10:33 +0000] \"GET /expenses HTTP/1.1\" 200 523 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:10:33"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:10:53 +0000] \"GET /expenses HTTP/1.1\" 200 523 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:10:53"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:11:07 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:11:07"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:11:12 +0000] \"GET /expenses HTTP/1.1\" 200 558 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:11:12"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:11:51"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:11:51"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:12:26 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:12:26"}[39m
+[32m{"level":"info","message":[{"_id":"6295252a08f69c35e3fdcc4b"}],"timestamp":"2022-05-30 22:12:40"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:12:40 +0000] \"GET /expenses HTTP/1.1\" 200 36 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:12:40"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:13:53 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:13:53"}[39m
+[32m{"level":"info","message":[{"_id":"6295252a08f69c35e3fdcc4b"},{"_id":"6295258108f69c35e3fdcc4c"}],"timestamp":"2022-05-30 22:13:59"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:13:59 +0000] \"GET /expenses HTTP/1.1\" 200 71 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:13:59"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:14:12"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:14:12"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:14:17 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:14:17"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:15:46 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:15:46"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:15:59 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:15:59"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:16:15"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:16:15"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:16:23 +0000] \"POST /expenses HTTP/1.1\" 500 1302 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:16:23"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:16:53"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:16:53"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:16:57 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:16:57"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:17:06"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:17:06"}[39m
+[32m{"level":"info","message":[{"_id":"6295252a08f69c35e3fdcc4b"},{"_id":"6295258108f69c35e3fdcc4c"},{"_id":"62952599577ea743cacac1f0"},{"_id":"629525f2577ea743cacac1f1"},{"_id":"629525ff577ea743cacac1f2"},{"_id":"629526398badd737572bdca2","amount":82.32,"type":"food"}],"timestamp":"2022-05-30 22:17:12"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:17:12 +0000] \"GET /expenses HTTP/1.1\" 200 240 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:17:12"}[39m
+[32m{"level":"info","message":[],"timestamp":"2022-05-30 22:17:31"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:17:31 +0000] \"GET /expenses HTTP/1.1\" 200 2 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:17:31"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:21:23 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:21:23"}[39m
+[32m{"level":"info","message":[{"_id":"629527434a8a033fa0c3c77b","amount":17.39,"category":"Groceries","detail":"Shopping stuff","type":"expense"}],"timestamp":"2022-05-30 22:21:26"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:21:26 +0000] \"GET /expenses HTTP/1.1\" 200 117 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:21:26"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:22:26 +0000] \"POST /expenses HTTP/1.1\" 200 61 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:22:26"}[39m
+[32m{"level":"info","message":[{"_id":"629527434a8a033fa0c3c77b","amount":17.39,"category":"Groceries","detail":"Shopping stuff","type":"expense"},{"_id":"629527824a8a033fa0c3c77c","amount":2691.39,"category":"Salary","detail":"Valtech Salary","type":"income"}],"timestamp":"2022-05-30 22:22:30"}[39m
+[32m{"level":"info","message":"::ffff:127.0.0.1 - - [30/May/2022:20:22:30 +0000] \"GET /expenses HTTP/1.1\" 200 231 \"-\" \"insomnia/2022.3.0\"\n","timestamp":"2022-05-30 22:22:30"}[39m
+[32m{"level":"info","message":"Started Xpenses. Listening on 3000","timestamp":"2022-05-30 22:23:35"}[39m
+[32m{"level":"info","message":"Connected to database 'expenses'.","timestamp":"2022-05-30 22:23:35"}[39m
